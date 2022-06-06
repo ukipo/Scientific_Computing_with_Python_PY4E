@@ -1,8 +1,7 @@
 ## Scientific Computing with Python
 Projects and exercises completed as part of the Scientific Computing with Python at freecodecamp.org, following the Python for Everybody course materials.
 
-## Course certificate
-The course certificate can be found at this [link](https://www.freecodecamp.org/certification/u_pogo/scientific-computing-with-python-v7).
+### [Course certificate](https://www.freecodecamp.org/certification/u_pogo/scientific-computing-with-python-v7)
 
 ## Topics
 - Introduction
